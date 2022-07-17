@@ -1,7 +1,7 @@
 const deleteBtn = document.getElementById('delete');
 
 const database = firebase.database();
-// var path = window.location.origin.toString().replace('www.massanger.','');
+// var path = window.location.origin.toString().replace('www.build.','');
 // path = path.replace("https://","");
 console.log(window.location.origin.toString());
 
