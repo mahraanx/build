@@ -1,5 +1,5 @@
 const AccountsCounter = document.getElementById('counter');
-// var path = window.location.origin.toString().replace('www.massanger.','');
+// var path = window.location.origin.toString().replace('www.build.','');
 // path = path.replace("https://","");
 console.log(window.location.origin.toString());
 // var end_of_unique = window.location.origin.toString().indexOf("netlify.app");
