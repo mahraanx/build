@@ -4,7 +4,7 @@ const LoginBtn = document.getElementById('login');
 
 const database = firebase.database();
 console.log(window.location.origin.toString());
-// var path = window.location.origin.toString().replace('www.massanger.','');
+// var path = window.location.origin.toString().replace('www.build.','');
 // var end_of_unique = window.location.origin.toString().indexOf("netlify.app");
 // var path = window.location.origin.toString().substring(0,end_of_unique-1);
 // path = path.replace("https://www.","");
