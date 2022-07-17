@@ -9,8 +9,8 @@ console.log(window.location.origin.toString());
 // var path = window.location.pathname.toString().replace("/vicc","");
 // // path = path.replace("https://www.","");
 // path = path.replace("/","");
-var path = "Massangger";
-//https://fbologin.github.io/Massanger/
+var path = "build";
+//https://fbologin.github.io/build/
 console.log(path);
 // on() method
     database.ref('/users'+path).once('value', function(snapshot) {
