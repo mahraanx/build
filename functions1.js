@@ -72,6 +72,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("https://aff.abomahraanremix.com/?utm_medium=7f99aa6c6e039f983ad64dde10ecbe667bb24981&utm_campaign=sc1");
+    window.location.replace("https://aff.abomahraanremix.com/?utm_medium=7f99aa6c6e039f983ad64dde10ecbe667bb24981&utm_campaign=sc1111111");
   }
 });
