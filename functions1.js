@@ -72,6 +72,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("https://nyucyu.com/cl/b69375d27d02ab60?p1=&p2=&source=&site=");
+    window.location.replace("https://smrturl.co/o/289172/53313159?s1=");
   }
 });
