@@ -72,6 +72,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("https://aff.hunakhidma.com/?utm_medium=462edb5319682991623a3586080b82ae8cc706c8&utm_campaign=sc");
+    window.location.replace("https://aff.hunakhidma.com/?utm_medium=c320f3db4d9bc6039cfb66daaf3ddfffa86f65b1&utm_campaign=gaazaayer");
   }
 });
